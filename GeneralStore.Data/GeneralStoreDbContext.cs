@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GeneralStore.Data
 {
-    class GeneralStoreDbContext : DbContext
+    public class GeneralStoreDbContext : DbContext
     {
         public GeneralStoreDbContext() : base("DefaultConnection")
         {

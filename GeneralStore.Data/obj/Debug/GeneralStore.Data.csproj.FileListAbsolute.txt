@@ -33,3 +33,6 @@ C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\obj\Debug\GeneralStore.
 C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\obj\Debug\GeneralStore.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\obj\Debug\GeneralStore.Data.dll
 C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\obj\Debug\GeneralStore.Data.pdb
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\bin\Debug\GeneralStore.Models.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\bin\Debug\GeneralStore.Models.pdb
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Data\bin\Debug\GeneralStore.Models.dll.config
