@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\GeneralStore.Services.dll.config
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\GeneralStore.Services.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\GeneralStore.Services.pdb
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\obj\Debug\GeneralStore.Services.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\obj\Debug\GeneralStore.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\obj\Debug\GeneralStore.Services.csproj.CopyComplete
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\obj\Debug\GeneralStore.Services.dll
+C:\ElevenFiftyProjects\GeneralStoreAPI\GeneralStore.Services\obj\Debug\GeneralStore.Services.pdb
