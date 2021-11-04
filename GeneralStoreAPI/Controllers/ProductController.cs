@@ -37,7 +37,7 @@ namespace GeneralStoreAPI.Controllers
 
         //GET PRODUCT BY ID
         [HttpGet]
-        public async Task<IHttpActionResult> GetProductById([FromUri] int id)
+        public async Task<IHttpActionResult> GetProductById([FromBody] int id)
         {
             Product product = await _context.Products.FindAsync(id);
             if (product != null)
