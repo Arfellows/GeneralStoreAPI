@@ -74,9 +74,9 @@ namespace GeneralStoreAPI.Controllers
 
         //DELETE BY SKU
         [HttpDelete]
-        public async Task<IHttpActionResult> DeleteProduct([FromUri] string SKU)
+        public async Task<IHttpActionResult> DeleteProduct([FromUri] int id)
         {
-            Product product = await _context.Products.FindAsync(SKU);
+            Product product = await _context.Products.FindAsync(id);
 
             if (product is null)
                 return NotFound();

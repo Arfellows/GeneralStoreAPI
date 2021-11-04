@@ -18,5 +18,14 @@ namespace GeneralStore.Models
         [Required]
         public string LastName { get; set; }
 
+        private readonly string fullName;
+        public string FullName
+        {
+            get
+            {
+                return fullName;
+            }
+        }
+
     }
 }

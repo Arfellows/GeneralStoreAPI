@@ -21,5 +21,14 @@ namespace GeneralStore.Models
         [Required]
         public int NumberInInventory { get; set; }
 
+        private readonly bool isInStock;
+        public bool IsInStock
+        {
+            get 
+            { 
+                return isInStock; 
+            }
+        }
+
     }
 }
