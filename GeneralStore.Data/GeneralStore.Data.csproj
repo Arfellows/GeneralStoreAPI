@@ -84,12 +84,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GeneralStoreDbContext.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeneralStore.Models\GeneralStore.Models.csproj">
+      <Project>{cb5d9c18-776a-4d22-aaf5-7e3f87df8f4b}</Project>
+      <Name>GeneralStore.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

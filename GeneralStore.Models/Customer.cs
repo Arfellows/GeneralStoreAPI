@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Web;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace GeneralStoreAPI.Models
+namespace GeneralStore.Models
 {
     public class Customer
     {
@@ -16,6 +17,6 @@ namespace GeneralStoreAPI.Models
 
         [Required]
         public string LastName { get; set; }
-        
+
     }
 }
